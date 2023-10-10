@@ -1,0 +1,156 @@
+.Main{
+    display: flex;
+}
+
+
+.navbar-expand-lg{
+    background-color: #762bee;
+    position: sticky;
+    top: 0;
+}
+
+.nav-link{
+    color: silver !important;
+
+}
+
+.nav-link:hover{
+    color: white !important;
+}
+
+
+
+.nav-item{
+    margin-left: 25px;
+    
+    
+ 
+    
+
+}
+
+.git-img{
+    margin-left: 560px;
+    width: 210px;
+    
+}
+
+
+
+/* .btn-warning{
+    margin-top: 80px ;
+    margin-left: 400px;
+    
+    
+    
+} */
+
+p{
+    
+    margin-top: 15px;
+    margin-left: 15px;
+   
+    
+}
+
+.footer{
+  display: flex;
+  justify-content: center;
+  margin-top: 40px;
+}
+
+.main{
+    display: flex;
+    justify-content: center;
+    position: sticky;
+    top: 0;
+    
+
+}
+
+.logo{
+    display: flex;
+    justify-content: center;
+}
+
+
+.logo>img{
+    width: 200px;
+    margin-top: 40px;
+    margin-bottom: 30px ;
+
+}
+    
+.Build-para{
+    display: flex;
+    justify-content: center;
+
+}
+
+.Build-para>p{
+    font-size: 50px;
+
+    
+    
+}
+
+.sites-para{
+    display: flex;
+    justify-content: center;
+    
+
+}
+
+.sites-para>p{
+    margin-top: -30px;
+    font-size: 45px;
+}
+
+.lorem-para>h6{
+    color: grey;
+    display: flex;
+    justify-content: center;
+    font-size: large;
+    margin-bottom: 30px;
+    
+   
+}
+
+.footer-button{
+
+    display: flex;
+    justify-content: center;
+
+    
+}
+
+.btn-secondary{
+    background-image: url(./png-clipart-clipboard-computer-icons-cut-copy-and-paste-others-miscellaneous-angle-thumbnail.png) ;
+    background-position: right;
+    background-size: 20px;
+    background-repeat: no-repeat;
+    width: 240px;
+    
+
+
+}
+
+.btn-primary {
+    margin-left: 10px;
+    background-color: #762bee ;
+    border: #762bee;
+}
+
+.btn-primary:hover{
+    background-color: #762bee;
+    color: silver;
+}
+
+.btn-warning:hover{
+    color: wheat ;
+}
+
+.container-fluid{
+    margin-left: 200px;
+    margin-right: 200px;
+}
